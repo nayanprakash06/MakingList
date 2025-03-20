@@ -1,5 +1,5 @@
 # Write your code here :-)
-
+#I made a comment hehe
 
 from machine import Pin
 import neopixel
