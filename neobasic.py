@@ -3,6 +3,7 @@
 
 from machine import Pin
 import neopixel
+imort time
 
 np = neopixel.NeoPixel(Pin(4),16)
 
